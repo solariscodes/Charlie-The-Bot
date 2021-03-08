@@ -1,7 +1,7 @@
 '''
 Simple Discord bot written in Python
 It returns a random Chuck Norris's quote when someone gets online
-by Solriscodes
+by Solariscodes
 07/03/2021
 '''
 import discord
