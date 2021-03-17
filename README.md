@@ -1,5 +1,7 @@
 # Charlie-The-Bot
 A simple Discord bot written in Python<br>
+The bot will send you a random Chuck Norris quote every time you join the channel.<br>
+More functions will be implemented soon<br>
 
 ![](charliebot.JPG)
 
