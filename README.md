@@ -12,11 +12,7 @@ git clone https://github.com/solariscodes/Charlie-The-Bot.git
 ```
 Install dependencies
 ```
-pip install discord
-pip install os
-pip install json
-pip install requests
-pip install logging
+pip install -r requirements.txt
 ```
 Set up your TOKEN
 ```sh
