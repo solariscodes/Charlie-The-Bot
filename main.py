@@ -49,6 +49,6 @@ class Bot():
   @client.event
   async def on_member_update(before, after):
     await before.send(Norris())
-  keep_alive()            
+  #keep_alive()            
   client.run(os.getenv('TOKEN'))   
 Bot()
